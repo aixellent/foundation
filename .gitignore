@@ -9,6 +9,9 @@
 /node_modules
 
 # IDEs and editors
+*.iml
+*.ipr
+*.iws
 /.idea
 .project
 .classpath
@@ -40,3 +43,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+foundation.iml
+foundation.ipr
+foundation.iws
